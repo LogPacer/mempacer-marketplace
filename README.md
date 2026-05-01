@@ -16,7 +16,7 @@ and [Codex CLI](https://github.com/openai/codex).
 ### Codex
 
 ```
-codex plugin marketplace add LogPacer/mempacer-marketplace
+codex plugin marketplace add git@github.com:LogPacer/mempacer-marketplace.git
 ```
 
 Then install `memspec` from the MemPacer marketplace in Codex. The Codex
