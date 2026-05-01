@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mempacer",
+  "owner": {
+    "name": "LogPacer",
+    "url": "https://github.com/LogPacer"
+  },
+  "metadata": {
+    "description": "MemPacer ecosystem plugins for Claude Code and Codex.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "memspec",
+      "description": "Discipline-enforcing spec framework: native .memspec DSL + pure-Rust toolchain + agent layer (writer / scrutinizer / implementer / reviewer / slicer) for coupled-state work.",
+      "version": "0.1.1",
+      "source": {
+        "source": "github",
+        "repo": "LogPacer/memspec",
+        "ref": "v0.1.1"
+      },
+      "category": "spec-discipline"
+    }
+  ]
+}
