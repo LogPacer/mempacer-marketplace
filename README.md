@@ -28,7 +28,7 @@ and points at the memspec plugin source in
 
 | Name | Version | Description |
 |---|---|---|
-| [memspec](https://github.com/LogPacer/memspec) | `v0.1.1` | Spec-discipline framework — `.memspec` DSL + pure-Rust toolchain + agent layer (writer / scrutinizer / implementer / reviewer / slicer) for coupled-state work. |
+| [memspec](https://github.com/LogPacer/memspec) | `v0.2.0` | Spec-discipline framework — `.memspec` DSL + pure-Rust toolchain + agent layer (writer / scrutinizer / implementer / reviewer / slicer / revisioner) for coupled-state work. |
 
 ## Adding a plugin
 
